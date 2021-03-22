@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CACV;EACI,UAAU,EAAE,IAAI;EAChB,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "../src/app/addcourse/addcourse.component.scss"
+    ],
+    "names": [],
+    "file": "addcourse.component.css"
+}

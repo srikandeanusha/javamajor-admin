@@ -1,0 +1,36 @@
+video {
+  height: 150px;
+  width: 200px;
+  background-size: contain;
+}
+
+.card {
+  margin-top: 20px;
+  width: 320x;
+}
+
+#myModal {
+  margin-top: 25px;
+}
+
+.btn1 {
+  background-color: #9b9898;
+  border: none;
+  border-radius: 5px;
+  width: 75px;
+  padding: 10px;
+}
+
+.btn2 {
+  padding-left: 5px;
+  background-color: #e6cf26;
+  border: none;
+  border-radius: 5px;
+  width: 75px;
+  padding: 10px;
+}
+
+.btn1:hover {
+  background-color: #ec220c;
+}
+/*# sourceMappingURL=videopage.component.css.map */

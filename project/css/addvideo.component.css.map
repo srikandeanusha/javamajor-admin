@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CACV;EACI,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "../src/app/addvideo/addvideo.component.scss"
+    ],
+    "names": [],
+    "file": "addvideo.component.css"
+}
